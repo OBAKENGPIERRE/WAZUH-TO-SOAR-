@@ -1,7 +1,6 @@
 # WAZUH-TO-SOAR-HOME-LAB
 
-PROJECT 1: WAZUH LAB SETUP
-# WAZUH SOC HOME LAB – Project 1
+# Project 1: Wazuh Infrastructure Setup
 
 ## Project Overview
 
